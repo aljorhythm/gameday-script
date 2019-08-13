@@ -7,4 +7,5 @@ Simple script to set most reliable endpoints from marketplace into dynamoDB tabl
 ```
 pip3 install -r requirements.txt
 python3 application.py
-```# gameday-script
+```
+
